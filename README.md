@@ -1,7 +1,7 @@
 # Daily_informations2--Selenium
 # Sample Video
 Current_Traffic, Amazon_hot_deal, Netflix_rankings :
-<video src="https://user-images.githubusercontent.com/106279616/183526349-3d71a7d5-115d-4f8c-abbe-0e7c2d2a99de.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/183526349-3d71a7d5-115d-4f8c-abbe-0e7c2d2a99de.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+<video src="https://user-images.githubusercontent.com/106279616/184039789-09df3300-4372-4bd2-ba78-d32db67cf480.mp4" data-canonical-src="https://user-images.githubusercontent.com/106279616/184039789-09df3300-4372-4bd2-ba78-d32db67cf480.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
 </video>
 
 # Sample Images
