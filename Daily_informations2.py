@@ -1,3 +1,10 @@
+# - Creater : Yeonghwan Park (John Park)
+# - Explantion :
+# This is the scraping program to check Current Traffic info, Amazon Hot deal 70% off, Netflix Rankings in a glance
+# We can save the trouble of wasting time to check one by one, It is very convenient
+# - Date of creation : Aug 10th 2022
+
+
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
