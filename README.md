@@ -2,7 +2,7 @@
 - Creater : Yeonghwan Park (John Park)
 - Tools : Python(Selenium)
 - Explantions :
-This is the scraping program to check Current Traffic info, Amazon Hot deal 70% off, Netflix Rankings in a glance
+This is the scraping program to check Current Traffic info, Amazon Hot deal 70% off, Netflix Rankings in a glance,
 We can save the trouble of wasting time to check one by one, It is very convenient
 - Date of creation : Aug 10th 2022
 
